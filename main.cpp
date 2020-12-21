@@ -8,7 +8,7 @@ int prop(long int A, long int B, long int C, long int D) {
 
 int main() {
     long int a, b, c, d;
-    long int aLast, bLast, cLast, dLast,temp1,temp2;
+    long int aLast, bLast, cLast, dLast;
     dLast = 500000;
 
     clock_t t;
